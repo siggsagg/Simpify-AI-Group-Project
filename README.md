@@ -1,2 +1,2 @@
 # hpi_group_project
-Collaborative projects for learning, testing and exploring concepts in the Career Pathway Skool community.
+Collaborative project for learning, testing and exploring concepts around CrewAI in the Simplify AI Skool community.
