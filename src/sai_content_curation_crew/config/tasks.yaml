@@ -1,0 +1,5 @@
+task_template:
+  description: >
+    Describe the task at hand. You can use curly brackets for {variables} that you can pass in later.
+  expected_output: >
+    Describe the expected output here.

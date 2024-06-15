@@ -1,0 +1,10 @@
+# Agent template
+agent_name:
+  role: >
+
+  goal: >
+
+  backstory: >
+
+  allow_delegation: false
+  verbose: true
